@@ -1,0 +1,37 @@
+C:\Users\AlejandroVE\Desktop\Comandos de Voz - Alejandro\Quinta aplicación - Base de Datos\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.exe
+C:\Users\AlejandroVE\Desktop\Comandos de Voz - Alejandro\Quinta aplicación - Base de Datos\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.pdb
+C:\Users\AlejandroVE\Desktop\Comandos de Voz - Alejandro\Quinta aplicación - Base de Datos\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.xml
+C:\Users\AlejandroVE\Desktop\Comandos de Voz - Alejandro\Quinta aplicación - Base de Datos\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica___SolGeometricas.Resources.resources
+C:\Users\AlejandroVE\Desktop\Comandos de Voz - Alejandro\Quinta aplicación - Base de Datos\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.vbproj.GenerateResource.Cache
+C:\Users\AlejandroVE\Desktop\Comandos de Voz - Alejandro\Quinta aplicación - Base de Datos\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.exe
+C:\Users\AlejandroVE\Desktop\Comandos de Voz - Alejandro\Quinta aplicación - Base de Datos\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.xml
+C:\Users\AlejandroVE\Desktop\Comandos de Voz - Alejandro\Quinta aplicación - Base de Datos\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.pdb
+C:\Users\AlejandroVE\Desktop\Comandos de Voz - Alejandro\Quinta aplicación - Base de Datos\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica___SolGeometricas.Ventana.resources
+C:\Users\AlejandroVE\Documents\Visual Studio 2010\Projects\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.exe
+C:\Users\AlejandroVE\Documents\Visual Studio 2010\Projects\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.xml
+C:\Users\AlejandroVE\Documents\Visual Studio 2010\Projects\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.pdb
+C:\Users\AlejandroVE\Documents\Visual Studio 2010\Projects\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.exe
+C:\Users\AlejandroVE\Documents\Visual Studio 2010\Projects\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.pdb
+C:\Users\AlejandroVE\Documents\Visual Studio 2010\Projects\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.xml
+C:\Users\AlejandroVE\Documents\Visual Studio 2010\Projects\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica___SolGeometricas.Ventana.resources
+C:\Users\AlejandroVE\Documents\Visual Studio 2010\Projects\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica___SolGeometricas.Resources.resources
+C:\Users\AlejandroVE\Documents\Visual Studio 2010\Projects\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.vbproj.GenerateResource.Cache
+X:\GDrive\8vo semestre\Robótica\Robotica-SolGeometricas\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.exe
+X:\GDrive\8vo semestre\Robótica\Robotica-SolGeometricas\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.xml
+X:\GDrive\8vo semestre\Robótica\Robotica-SolGeometricas\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.pdb
+X:\GDrive\8vo semestre\Robótica\Robotica-SolGeometricas\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.exe
+X:\GDrive\8vo semestre\Robótica\Robotica-SolGeometricas\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.pdb
+X:\GDrive\8vo semestre\Robótica\Robotica-SolGeometricas\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.xml
+X:\GDrive\8vo semestre\Robótica\Robotica-SolGeometricas\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica___SolGeometricas.Ventana.resources
+X:\GDrive\8vo semestre\Robótica\Robotica-SolGeometricas\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica___SolGeometricas.Resources.resources
+X:\GDrive\8vo semestre\Robótica\Robotica-SolGeometricas\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.vbproj.GenerateResource.Cache
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.exe
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.pdb
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\bin\Debug\Robotica - SolGeometricas.xml
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.vbprojResolveAssemblyReference.cache
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica___SolGeometricas.Ventana.resources
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica___SolGeometricas.Resources.resources
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.vbproj.GenerateResource.Cache
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.exe
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.xml
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica - SolGeometricas\obj\x86\Debug\Robotica - SolGeometricas.pdb

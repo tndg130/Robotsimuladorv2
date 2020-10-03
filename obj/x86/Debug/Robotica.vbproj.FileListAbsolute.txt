@@ -1,0 +1,36 @@
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\obj\x86\Debug\Robotica - SolGeometricas.exe
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\obj\x86\Debug\Robotica - SolGeometricas.xml
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\obj\x86\Debug\Robotica - SolGeometricas.pdb
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\bin\Debug\Robotica - SolGeometricas.exe
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\bin\Debug\Robotica - SolGeometricas.pdb
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\bin\Debug\Robotica - SolGeometricas.xml
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\obj\x86\Debug\Robotica.vbprojResolveAssemblyReference.cache
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\obj\x86\Debug\Robotica___SolGeometricas.Ventana.resources
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\obj\x86\Debug\Robotica___SolGeometricas.Resources.resources
+C:\Users\adg_d\Desktop\Robotica - SolGeometricas\Robotica\obj\x86\Debug\Robotica.vbproj.GenerateResource.Cache
+C:\Users\adg_d\Documents\Visual Studio 2015\Projects\Robotica\obj\x86\Debug\Robotica - SolGeometricas.exe
+C:\Users\adg_d\Documents\Visual Studio 2015\Projects\Robotica\obj\x86\Debug\Robotica - SolGeometricas.xml
+C:\Users\adg_d\Documents\Visual Studio 2015\Projects\Robotica\obj\x86\Debug\Robotica - SolGeometricas.pdb
+C:\Users\adg_d\Documents\Visual Studio 2015\Projects\Robotica x,y,z\obj\x86\Debug\Robotica - SolGeometricas.exe
+C:\Users\adg_d\Documents\Visual Studio 2015\Projects\Robotica x,y,z\obj\x86\Debug\Robotica - SolGeometricas.xml
+C:\Users\adg_d\Documents\Visual Studio 2015\Projects\Robotica x,y,z\obj\x86\Debug\Robotica - SolGeometricas.pdb
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\obj\x86\Debug\Robotica - SolGeometricas.exe
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\obj\x86\Debug\Robotica - SolGeometricas.xml
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\obj\x86\Debug\Robotica - SolGeometricas.pdb
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\obj\x86\Debug\Robotica.vbprojResolveAssemblyReference.cache
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\obj\x86\Debug\Robotica___SolGeometricas.Ventana.resources
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\obj\x86\Debug\Robotica___SolGeometricas.Resources.resources
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\obj\x86\Debug\Robotica.vbproj.GenerateResource.Cache
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\bin\Debug\Robotica - SolGeometricas.exe
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\bin\Debug\Robotica - SolGeometricas.pdb
+C:\Users\DIAZDELEON\Desktop\Robotica x,y,z\bin\Debug\Robotica - SolGeometricas.xml
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\obj\x86\Debug\Robotica - SolGeometricas.exe
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\obj\x86\Debug\Robotica - SolGeometricas.xml
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\obj\x86\Debug\Robotica - SolGeometricas.pdb
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\bin\Debug\Robotica - SolGeometricas.exe
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\bin\Debug\Robotica - SolGeometricas.pdb
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\bin\Debug\Robotica - SolGeometricas.xml
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\obj\x86\Debug\Robotica.vbprojResolveAssemblyReference.cache
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\obj\x86\Debug\Robotica___SolGeometricas.Ventana.resources
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\obj\x86\Debug\Robotica___SolGeometricas.Resources.resources
+C:\Users\adg_d\Desktop\Robotica x,y,z serial\obj\x86\Debug\Robotica.vbproj.GenerateResource.Cache
